@@ -3,7 +3,7 @@
 I'm a passionate and dynamic Software Engineer specializing in full-stack development, with a flair for creating seamless and efficient web applications. I thrive on working with modern technologies like **React**, **Node.js**, and **MongoDB**, and I always aim to build solutions that balance intuitive front-end experiences with powerful back-end functionality.
 
 ## A little more about me:
-- 🔭 Currently working on [CarBliss](#), a car dealership web application
+- 🔭 Currently working on [CarYEY](#), a car dealership web application similar to carfax, cargurus etc...(private repo) but open to show case.
 - 🌱 Constantly learning new technologies and fine-tuning my skills in **React**, **Node.js**, and **AWS**
 - 👯 Open to collaborating on exciting open-source projects and pushing the boundaries of web development
 - 💬 Ask me about web development, CI/CD pipelines, automation, and AWS
