@@ -26,18 +26,21 @@ Lazy Loading & Code Splitting → Improves performance and initial page load tim
 Custom Hooks & Context API → Modularized logic for handling authentication, search filters, and API interactions.
 Tailwind CSS + Responsive Design → Ensures a modern UI/UX, optimizing across devices.
 Optimized Filtering & Search → Uses URL parameters & Context API for real-time filtering without unnecessary re-renders.
+
 🔹 Backend (Node.js + Express)
 Express.js → A fast, lightweight Node.js framework handling API endpoints for cars, users, and transactions.
 MongoDB (NoSQL) + Mongoose ODM → Stores structured & semi-structured data efficiently with indexing & aggregation pipelines.
 RESTful API + JWT Authentication → Secure authentication and protected routes for users, dealers, and admins.
 AWS S3 for Image Storage → Stores and serves car images efficiently with CloudFront caching.
 Rate Limiting & Security Best Practices → Prevents brute force attacks & API abuse.
+
 🔹 Database (MongoDB + Mongoose)
 MongoDB NoSQL Database → Used for scalable, high-performance data storage.
 Schema Design & Indexing:
 Optimized car listing schema for fast lookups and queries.
 Uses compound indexing for performance boosts.
 Aggregation Pipelines → Pre-aggregates car listing data for efficient search & filtering.
+
 🔹 Cloud & DevOps (AWS + CI/CD)
 AWS EC2 + S3 + CloudFront:
 EC2 for scalable hosting.
@@ -47,19 +50,25 @@ CI/CD Pipeline (GitHub Actions + AWS CodeDeploy):
 Automated builds, tests, and deployments.
 Logging & Monitoring (AWS CloudWatch + PM2):
 Tracks API performance & error handling.
+
 📌 Key Features
+
 🔹 Advanced Car Search & Filtering
 Dynamic search with multiple filters (price, year, model, fuel type, drivetrain, etc.).
 URL-based filtering for SEO & shareable links.
+
 🔹 User Authentication & Authorization
 Secure JWT-based authentication for users & dealers.
 Role-based access control (Admin, Dealer, Buyer).
+
 🔹 Auctions & Buy Now
 Auction system with real-time bidding & expiration timers.
 Instant purchase options for non-auction cars.
+
 🔹 Dealer Dashboard
 Inventory management (add/edit/delete listings).
 Performance analytics & lead tracking.
+
 🔹 Responsive & High-Performance UI
 Optimized React components for minimal re-renders.
 Lazy loading & dynamic imports to reduce load time.
