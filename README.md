@@ -63,15 +63,6 @@ Performance analytics & lead tracking.
 🔹 Responsive & High-Performance UI
 Optimized React components for minimal re-renders.
 Lazy loading & dynamic imports to reduce load time.
-🚀 Why This Is a Solid Full-Stack AWS-Powered Project
-✅ Scalable & Optimized
-MongoDB indexing & aggregation for fast search queries.
-AWS S3 + CloudFront for optimized image hosting.
-Dockerized microservices for deployment flexibility.
-✅ Secure & Production-Ready
-Rate limiting & authentication prevent brute force attacks.
-MongoDB Atlas backup & security rules for database protection.
-✅ Cloud-Native Deployment
 AWS-hosted EC2 instances, AWS Lambda for background jobs, and S3 for storage.
 
 ## 🎓 Education:
